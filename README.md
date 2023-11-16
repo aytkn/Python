@@ -1,1 +1,3 @@
 # PythonMakineOgrenmesi
+asdasd,
+**kalın** aasdasdasdasd
