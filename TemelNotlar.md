@@ -1,4 +1,4 @@
-### VERİ OKUMA ###
+# VERİ OKUMA #
 
 import pandas as pd  
 veriler = pd.read_csv("veriler.csv")
