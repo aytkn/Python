@@ -1,8 +1,13 @@
 ### VERİ OKUMA ###
 ```
 import pandas as pd  
-veriler = pd.read_csv("veriler.csv")  
+data = pd.read_csv('veriler.csv' , sep=',')  
 ```
+### VERİ KOPYALAMA ###
+```
+df=data.copy()  
+```
+
 ### EKSİK VERİ SETİNİ TAMAMLAMA ###  
 ```
 from sklearn.impute import SimpleImputer  
